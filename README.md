@@ -223,6 +223,12 @@ POST /predict
 }
 ```
 
+## 🖼️ Project Screenshots
+
+### 🔹 User Interface
+
+![UI Screenshot](images/uber_ui.png)
+
 ---
 
 ## Key Learnings
@@ -234,16 +240,6 @@ POST /predict
 - Model serialization using Joblib
 - Building REST API using Flask
 - Handling real-time prediction pipelines
-
----
-
-## Future Improvements
-
-- Deploy using Docker
-- Deploy backend on AWS / Render / Railway
-- Add model explainability (SHAP)
-- Try CatBoost / LightGBM
-- Add caching for faster inference
 
 ---
 
