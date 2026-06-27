@@ -5,6 +5,8 @@ backend/ml/.venv/
 
 __pycache__/
 *.pyc
+*.py[cod]
+*.pyo
 
 
 .ipynb_checkpoints/
