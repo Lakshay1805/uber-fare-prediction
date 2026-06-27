@@ -1,0 +1,13 @@
+.venv/
+venv/
+env/
+backend/ml/.venv/
+
+__pycache__/
+*.pyc
+
+
+.ipynb_checkpoints/
+
+*.pkl
+*.joblib

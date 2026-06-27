@@ -1,0 +1,12 @@
+# Core data handling
+pandas
+numpy
+
+# ML
+scikit-learn
+xgboost
+joblib
+
+# Flask backend
+flask
+flask-cors
